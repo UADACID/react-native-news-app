@@ -1,0 +1,3 @@
+rootProject.name = 'tokopedia_test'
+
+include ':app'
